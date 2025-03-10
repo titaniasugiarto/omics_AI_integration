@@ -1,0 +1,13 @@
+{
+  "base_url": "/r/ecs/10.1.74.202/da883f688fe146b3a38c32dfdfc20832/jupyter/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 62,
+  "port": 8888,
+  "root_dir": "/home/rolv-user",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://ip-10-1-74-202.eu-central-1.compute.internal:8888/r/ecs/10.1.74.202/da883f688fe146b3a38c32dfdfc20832/jupyter/",
+  "version": "2.14.0"
+}
